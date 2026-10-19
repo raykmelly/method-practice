@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea87814-0f13-43f8-9bcf-6c1cd7e2d5a4" name="Changes" comment="Made the three methods: sayHello(), sayGoodbye(), sayGoodMorning(). Called them in the main method.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Hello.java" afterDir="false" />
+    <list default="true" id="9ea87814-0f13-43f8-9bcf-6c1cd7e2d5a4" name="Changes" comment="Added a new line at the end of the displayMenu() method.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Format.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,13 +64,37 @@
       <option name="project" value="LOCAL" />
       <updated>1792431842299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added comments">
+      <created>1792431909799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792431909799</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created the Menu.java class that is called twice to print out a menu.">
+      <created>1792432080539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792432080539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a new line at the end of the displayMenu() method.">
+      <created>1792432142243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1792432142243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started project" />
     <MESSAGE value="Changed class name to &quot;Hello.java&quot;" />
     <MESSAGE value="Made the three methods: sayHello(), sayGoodbye(), sayGoodMorning(). Called them in the main method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made the three methods: sayHello(), sayGoodbye(), sayGoodMorning(). Called them in the main method." />
+    <MESSAGE value="Added comments" />
+    <MESSAGE value="Created the Menu.java class that is called twice to print out a menu." />
+    <MESSAGE value="Added a new line at the end of the displayMenu() method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a new line at the end of the displayMenu() method." />
   </component>
 </project>
