@@ -8,14 +8,17 @@ public class Hello {
         sayGoodMorning();
     }
 
+    // Prints out "Hello world!" when called
     public static void sayHello() {
         System.out.println("Hello world!");
     }
 
+    // Prints out "Goodbye!" when called
     public static void sayGoodbye() {
         System.out.println("Goodbye!");
     }
 
+    // Prints out "Good morning!" when called
     public static void sayGoodMorning() {
         System.out.println("Good morning!");
     }
