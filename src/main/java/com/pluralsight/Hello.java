@@ -1,6 +1,6 @@
 package com.pluralsight;
 
-public class MethodPractice {
+public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
