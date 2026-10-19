@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea87814-0f13-43f8-9bcf-6c1cd7e2d5a4" name="Changes" comment="Added a new line at the end of the displayMenu() method.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Format.java" afterDir="false" />
-    </list>
+    <list default="true" id="9ea87814-0f13-43f8-9bcf-6c1cd7e2d5a4" name="Changes" comment="Added comments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,16 +83,39 @@
       <option name="project" value="LOCAL" />
       <updated>1792432142243</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished the Format.java class. Made a method formatName(first,last) that returns a formatted string like last + &quot;,&quot; + last, then print it out in the main method.">
+      <created>1792432439202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1792432439202</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added some comments to the work">
+      <created>1792433951097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1792433951097</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added comments">
+      <created>1792434482696</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1792434482696</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started project" />
     <MESSAGE value="Changed class name to &quot;Hello.java&quot;" />
     <MESSAGE value="Made the three methods: sayHello(), sayGoodbye(), sayGoodMorning(). Called them in the main method." />
-    <MESSAGE value="Added comments" />
     <MESSAGE value="Created the Menu.java class that is called twice to print out a menu." />
     <MESSAGE value="Added a new line at the end of the displayMenu() method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a new line at the end of the displayMenu() method." />
+    <MESSAGE value="Finished the Format.java class. Made a method formatName(first,last) that returns a formatted string like last + &quot;,&quot; + last, then print it out in the main method." />
+    <MESSAGE value="Added some comments to the work" />
+    <MESSAGE value="Added comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments" />
   </component>
 </project>

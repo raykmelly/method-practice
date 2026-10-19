@@ -5,10 +5,10 @@ public class CompareNumbers {
         // Test's to verify the methods: isEven(), and isPositive() work with
         // multiple different inputs
         int testNum1 = 5;
-        System.out.printf("Is %d even: %b",testNum1,isEven(testNum1));
+        System.out.printf("Is %d even: %b%n",testNum1,isEven(testNum1));
 
         int testNum2 = 10;
-        System.out.printf("Is %d positive: %b",testNum2,isPositive(testNum2));
+        System.out.printf("Is %d positive: %b%n",testNum2,isPositive(testNum2));
     }
 
     // Return a boolean: if a number is even or not
